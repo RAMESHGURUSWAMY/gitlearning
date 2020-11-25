@@ -1,2 +1,2 @@
 # gitlearning
-Git Learn
+Git Learn in cli
